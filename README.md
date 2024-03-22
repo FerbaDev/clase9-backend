@@ -8,4 +8,9 @@ conexión a compass ---------- 00:16
 
 se crean models ------------- 00:28
 
-dejé en 00:31
+busqueda por extensionStats ---- 00:40
+
+dejé en 01:12
+
+
+() => {}
