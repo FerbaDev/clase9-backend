@@ -10,6 +10,8 @@ se crean models ------------- 00:28
 
 busqueda por extensionStats ---- 00:40
 
+population -------------------- 01:13
+
 dejé en 01:12
 
 
