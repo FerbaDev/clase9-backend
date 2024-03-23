@@ -18,6 +18,13 @@ const alumnoSchema = new mongoose.Schema({
     }]
 })
 
+// 
+
+alumnoSchema.pre("findOne", function (next) {
+    this.populate("cursos");
+    next(); 
+})
+
 const alumnoModel = mongoose.model("alumnos", alumnoSchema)
 
 export default alumnoModel;

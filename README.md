@@ -12,7 +12,13 @@ busqueda por extensionStats ---- 00:40
 
 population -------------------- 01:13
 
-dejé en 01:12
+conectando models -------------- 01:29
+
+agregando documento a coleccion -- 01:38
+
+pre para usar population --------- 01:41
+
+
 
 
 () => {}

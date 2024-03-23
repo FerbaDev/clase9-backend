@@ -50,7 +50,7 @@ const start = async () => {
     //testeamos, como se ve el alumno y si se muestra el curso asignado: 
 
     const estudianteConCursoAsignado = await alumnoModel.findById("65fe47874cd360801b4a47ec")
-    .populate("cursos");
+    //.populate("cursos");
 
     console.log(estudianteConCursoAsignado);
   }
